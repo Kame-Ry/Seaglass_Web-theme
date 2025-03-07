@@ -13,7 +13,7 @@ Seaglass is a lightweight, modular web theme designed for easy customization and
 /seaglass-theme
 │── assets/
 │   │── css/        # Stylesheets
-│   │── images/     # Icons and logos (Not included in this repository)
+│   │── images/     # Icons and logos
 │   │── functions/  # JavaScript utilities
 │── pages/
 │── index.html      # Main entry point
