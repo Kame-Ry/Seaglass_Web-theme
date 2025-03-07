@@ -1,4 +1,5 @@
 # Seaglass Web Theme
+![seaglass-high-resolution-logo-transparent(2)](https://github.com/user-attachments/assets/3950e0d7-0c2b-4b7f-a78c-d09c9f6317ef)
 
 Seaglass is a lightweight, modular web theme designed for easy customization and deployment. It is structured to be user-friendly and adaptable for various personal and professional websites. This theme is optimized for use on GitHub Pages.
 
