@@ -59,9 +59,9 @@ Feel free to fork this repository and submit pull requests for improvements.
 This project is open-source and available under the MIT License.
 
 ## Example
-# Home Page -
+### Home Page -
 ![image](https://github.com/user-attachments/assets/1d88a7ba-a611-4bd7-ae6e-b875835ec4b2)
 
-# Maintenance Page - 
+### Maintenance Page - 
 ![image](https://github.com/user-attachments/assets/89df3824-d479-477f-b18c-799b878ed015)
 
