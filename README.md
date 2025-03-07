@@ -12,18 +12,20 @@ Seaglass is a lightweight, modular web theme designed for easy customization and
 ```
 /seaglass-theme
 │── assets/
-│   │── css/        # Stylesheets
-│   │── images/     # Icons and logos
-│   │── functions/  # JavaScript utilities
+│   │── css/             # Stylesheets
+│   │── images/          # Icons and logos
+│   │── functions/       # JavaScript utilities
+│── components/      
+│   │── header.html      # Header component
+│   │── nav.html         # Navigation component
+│   │── footer.html      # Footer component
+│   │── head.html        # Metadata and link definitions
+│── index.html           # Main entry point
 │── pages/
-│── index.html      # Main entry point
-│── template.html   # Base template
-│── header.html     # Header component
-│── nav.html        # Navigation component
-│── footer.html     # Footer component
-│── head.html       # Metadata and link definitions
-│── Maintenance.html # Maintenance mode page
-```
+│   │── template.html    # Base template
+│   │── Maintenance.html # Maintenance mode page
+
+
 
 ## Installation
 1. Clone the repository:
