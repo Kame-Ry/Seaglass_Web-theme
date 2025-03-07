@@ -24,14 +24,12 @@ Seaglass is a lightweight, modular web theme designed for easy customization and
 │── pages/
 │   │── template.html    # Base template
 │   │── Maintenance.html # Maintenance mode page
-
-
-
+```
 ## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/YOUR-USERNAME/seaglass-theme.git
-   ```
+
 2. Navigate to the directory:
    ```sh
    cd seaglass-theme
