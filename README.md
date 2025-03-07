@@ -58,3 +58,6 @@ Feel free to fork this repository and submit pull requests for improvements.
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Example
+![image](https://github.com/user-attachments/assets/1d88a7ba-a611-4bd7-ae6e-b875835ec4b2)
